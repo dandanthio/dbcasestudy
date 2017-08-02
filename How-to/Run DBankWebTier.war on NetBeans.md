@@ -1,5 +1,5 @@
 # READ ME FIRST
-You should just clone the source codes from our repo and skip to 'Prepare and create project in NetBeans Project'
+You should just clone the source codes from our repo and skip to 'Create project in NetBeans IDE'
 
 ## Getting and unpacking the .war file
 * Get the latest one with other updated files here https://deliveringtechnology.atlassian.net/wiki/spaces/DT/pages/3539077/Updated+files
@@ -17,7 +17,7 @@ Reference: https://stackoverflow.com/questions/15226407/importing-existing-jsp-p
 * Create new folder called 'web'
 * Move WEB-INF and all files (NOT META-INF) into web folder
 
-## Create project in NetBeans Project
+## Create project in NetBeans IDE
 + Open NetBeans and create project using existing sources under 'Java Web'
 + Follow the wizard and tada!
   - Location and project folder - C:\Users\Graduate\Documents\GitHub\dbcasestudy\DBankWebTier
