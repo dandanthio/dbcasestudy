@@ -29,6 +29,8 @@ In your cmd.exe
 
 (You will end up in the mySQL server as root@someAlphanumeric)
 
+(Congrats, you've started your first container on Docker with the help of .bat scripts from the trainers)
+
 ## Within BASH 
 (you should see "root@someAlphanumeric" on the left)
 
