@@ -29,4 +29,4 @@ Reference: https://stackoverflow.com/questions/15226407/importing-existing-jsp-p
 # Test
 * Press Run Project (F6) button and your browser should show the HTML from DBankWebTier\index.jsp
 * If you did not set up your mySQL server (via Docker or even locally), you should see 'DB NOT CONNECTED' message.
-* Find the How-to set up mySQL server container to test your app's database connection in other How-to
+* Find the How-to set up mySQL server container to test your app's database connection in other How-to https://github.com/dandanthio/dbcasestudy/blob/master/How-to/MySQL%20container%20via%20Docker%20and%20updated%20bat%20files.md
